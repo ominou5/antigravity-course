@@ -1,7 +1,7 @@
 # Getting Started with Antigravity
 ### A Beginner's Course — From Zero to Live App
 
-Welcome! This course teaches you how to use **Antigravity** — an AI-powered coding IDE — to build software, learn new skills, and publish real apps online. No prior coding experience required.
+Welcome! This course teaches you how to use **Antigravity** — an AI-powered coding IDE — to build software, learn new skills, and publish real apps online. No prior coding experience required. Join our free Skool community at https://www.skool.com/agashic-5136 if you need assistance.
 
 **What you'll build:** A full-stack **Habit Tracker** web app with a database, optional login, and a live URL that anyone can visit. (Or, with one lesson, you'll learn how to swap it for your own app idea.)
 
