@@ -35,7 +35,7 @@ Write it here:
 List the "things" your app needs to remember. Each becomes a database table.
 
 | Thing | Key fields |
-|---|---|
+|--|--|
 | Example: Books | title, author, date_read, rating |
 | *Your item 1* | ... |
 | *Your item 2* | ... |

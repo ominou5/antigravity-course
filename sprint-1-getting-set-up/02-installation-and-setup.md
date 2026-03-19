@@ -132,4 +132,4 @@ Antigravity will look at your current folder and describe what's there. If the f
 - Antigravity has a file explorer, editor, and chat panel
 - Free tier is enough for this course; check pricing for your ongoing needs
 
-**Next:** [Lesson 03 — Your First Conversation](03-your-first-conversation.md)
+**Next:** [Lesson 02B — Settings & Safety](02B-settings-and-safety.md)
